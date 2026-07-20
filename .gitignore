@@ -1,0 +1,7 @@
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependências (não usadas em produção)
+node_modules/

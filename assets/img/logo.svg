@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 110" width="360" height="110" role="img" aria-label="Contécnica Construções e Reformas">
+  <defs>
+    <linearGradient id="swoosh" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#FFD34D"/>
+    </linearGradient>
+  </defs>
+  <!-- Swoosh / curva do logo -->
+  <path d="M8 74 C 70 26, 150 20, 352 40 C 168 44, 92 54, 24 92 C 18 86, 12 80, 8 74 Z" fill="url(#swoosh)"/>
+  <!-- Wordmark -->
+  <text x="10" y="58" font-family="'Playfair Display', 'Times New Roman', Georgia, serif" font-size="46" font-weight="700" fill="#1A1A1A" letter-spacing="0.5">Contécnica</text>
+  <!-- Tagline -->
+  <text x="12" y="103" font-family="'Montserrat', Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="3" fill="#1A1A1A">CONSTRUÇÕES E REFORMAS</text>
+</svg>
