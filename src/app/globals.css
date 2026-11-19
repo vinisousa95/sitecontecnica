@@ -4,9 +4,9 @@
    Tokens de design — Contécnica
    ------------------------------------------------------------------ */
 @theme {
-  --color-brand: #f5ad18;
-  --color-brand-strong: #e09a0a;
-  --color-brand-soft: #fdf1d6;
+  --color-brand: #ff9e1b; /* laranja predominante do logotipo */
+  --color-brand-strong: #ec8a06;
+  --color-brand-soft: #ffedd4;
   --color-ink: #171717;
   --color-ink-soft: #2a2a28;
   --color-paper: #f7f6f2;

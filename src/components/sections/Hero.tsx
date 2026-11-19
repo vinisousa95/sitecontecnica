@@ -25,11 +25,11 @@ export function Hero() {
           </p>
           <h1
             id="hero-title"
-            className="mt-7 text-[2.6rem] leading-[1.02] font-extrabold text-ink sm:text-6xl lg:text-[4.1rem] xl:text-[4.9rem]"
+            className="mt-7 text-[2.6rem] leading-[1.02] font-extrabold text-ink sm:text-6xl lg:text-[3.3rem] xl:text-[3.95rem]"
             data-reveal
             style={revealDelay(80)}
           >
-            <span className="block">{hero.title[0]}</span>
+            <span className="block sm:whitespace-nowrap">{hero.title[0]}</span>
             <span className="block text-ink/45">{hero.title[1]}</span>
           </h1>
           <p

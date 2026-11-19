@@ -4,7 +4,7 @@
  */
 export const hero = {
   eyebrow: "Construções e Reformas",
-  title: ["Transformamos ambientes.", "Valorizamos histórias."],
+  title: ["Trabalhando para", "seu conforto"],
   subtitle:
     "Construções e reformas com atenção aos detalhes, cuidado na execução e soluções pensadas para transformar seus espaços.",
   primaryCta: "Solicitar orçamento",
