@@ -10,7 +10,7 @@ import banheiroEspelhoFinal from "../../../public/images/banheiro-espelho-final.
 
 export function Hero() {
   return (
-    <section id="inicio" aria-labelledby="hero-title" className="relative overflow-hidden bg-white pt-20">
+    <section id="inicio" aria-labelledby="hero-title" className="relative overflow-hidden bg-white pt-20 lg:pt-32">
       {/* Linhas arquitetônicas de fundo */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 hidden lg:block">
         <div className="container-site relative h-full">
@@ -18,7 +18,7 @@ export function Hero() {
         </div>
       </div>
 
-      <div className="container-site relative grid items-center gap-12 pt-10 pb-16 sm:pt-14 lg:min-h-[calc(100svh-5rem)] lg:grid-cols-12 lg:gap-8 lg:py-16">
+      <div className="container-site relative grid items-center gap-12 pt-10 pb-16 sm:pt-14 lg:min-h-[calc(100svh-8rem)] lg:grid-cols-12 lg:gap-8 lg:py-16">
         <div className="lg:col-span-6 lg:pr-8 xl:pr-14">
           <p className="eyebrow text-muted" data-reveal>
             {hero.eyebrow}
@@ -65,7 +65,7 @@ export function Hero() {
         </div>
 
         <div className="relative lg:col-span-6">
-          <figure className="relative ml-auto aspect-[4/5] w-full overflow-hidden rounded-[1.75rem] bg-paper sm:aspect-[5/4] lg:aspect-[4/5] lg:max-h-[calc(100svh-9rem)] lg:w-auto">
+          <figure className="relative ml-auto aspect-[4/5] w-full overflow-hidden rounded-[1.75rem] bg-paper sm:aspect-[5/4] lg:aspect-[4/5] lg:max-h-[calc(100svh-12rem)] lg:w-auto">
             <Image
               src={salaEstarFinal}
               alt="Sala de estar finalizada pela Contécnica, com sofá claro, painel vazado iluminado e mesa de centro em madeira"
