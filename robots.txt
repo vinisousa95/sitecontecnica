@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /enviar.php
-
-Sitemap: https://www.contecnica.net/sitemap.xml
